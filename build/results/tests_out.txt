@@ -1,7 +1,7 @@
-Breakpoint 1 at 0xee: file source/main.c, line 26.
+Breakpoint 1 at 0xea: file source/main.c, line 25.
 Note: automatically using hardware breakpoints for read-only addresses.
 ======================================================
 Running all tests..."
 
-"PINA: 0x00, PINB: 0x00 => PORTC: 0"..."PINA[7:0]: 0x00, PORTB[7:0]: 0x00, PORTC[7:0]: 0x00"..."PINA[7:0]: 0x10, PORTB[7:0]: 0x00, PORTC[7:0]: 0x01"..."PINA[7:0]: 0x01, PORTB[7:0]: 0x01, PORTC[7:0]: 0x02"..."PINA[7:0]: 0x04, PORTB[7:0]: 0x40, PORTC[7:0]: 0x03"..."PINA[7:0]: 0x03, PORTB[7:0]: 0x03, PORTC[7:0]: 0x04"..."PINA[7:0]: 0x80, PORTB[7:0]: 0xF0, PORTC[7:0]: 0x05"..."PINA[7:0]: 0x70, PORTB[7:0]: 0x07, PORTC[7:0]: 0x06"..."PINA[7:0]: 0xC0, PORTB[7:0]: 0xB3, PORTC[7:0]: 0x07"..."PINA[7:0]: 0xF0, PORTB[7:0]: 0x0F, PORTC[7:0]: 0x08"..."PINA[7:0]: 0xCC, PORTB[7:0]: 0xF1, PORTC[7:0]: 0x09"..."PINA[7:0]: 0xF1, PORTB[7:0]: 0x1F, PORTC[7:0]: 0x0A"..."PINA[7:0]: 0xFF, PORTB[7:0]: 0xFF, PORTC[7:0]: 0x10"...======================================================
+"PINA: 0x00, PINB: 0x00 => PORTC: 0"..."PINA[3:0]: 0x01, PORTC[6:0]: 0x60"..."PINA[3:0]: 0x03, PORTC[6:0]: 0x70"..."PINA[3:0]: 0x05, PORTC[6:0]: 0x38"..."PINA[3:0]: 0x08, PORTC[6:0]: 0x3C"..."PINA[3:0]: 0x0B, PORTC[6:0]: 0x3E"..."PINA[3:0]: 0x0F, PORTC[6:0]: 0x3F"...======================================================
 Quitting: Remote doesn't know how to detach
